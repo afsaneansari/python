@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a83b49aa-4605-4026-92c7-49b466a997ba" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tamrin1/ConvertToHex.py" afterPath="$PROJECT_DIR$/tamrin1/ConvertToHex.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python2.iws" />
@@ -293,7 +292,11 @@
       <created>1416384733094</created>
       <updated>1416384733094</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="third commit">
+      <created>1416384833451</created>
+      <updated>1416384833451</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -338,7 +341,8 @@
     </option>
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
