@@ -2,7 +2,9 @@ def ConvertToHex(dec):
     x = (dec % 15)
 
 
-
+    digits = "0123456789ABCDEF"
+    rest = dec / 16
+    if (rest == 0):
         return digits[x]
     return ConvertToHex(rest) + digits[x]
 
